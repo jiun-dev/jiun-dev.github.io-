@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2020-07-07 TIL
+tags: [frontpage, jekyll, blog]
+image: "/images/posts/3.jpg"
+cateories: ["TIL"]
+---
+
+### 07.06.화 오늘 한 일
+
+---
+
+#### - The Complete 2020 Web Development Bootcamp ~229강
+
+---
+
+### 07.08.수 내일 할 일
+
+---
+
+#### - The Complete 2020 Web Development Bootcamp ~253강
+
+#### - 모두의 알고리즘 챕터3
+
+---
+
+### 07.07.화 아쉬운 부분 및 고쳐야 할 점
+
+---
+
+#### - 개인적인 사정으로 인해 할 일을 다 하지 못함.
+
+#### - 과식 금지 --> 지나친 포만감은 학습과 집중에 방해가 됨.
+
+---
+
+### 07.07.화 만족한 부분
+
+---
+
+#### - 없음.
+
+---

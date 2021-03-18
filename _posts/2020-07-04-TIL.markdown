@@ -1,0 +1,20 @@
+---
+layout: post
+title: 20/07/04 TIL
+tags: [frontpage, jekyll, blog]
+image: "/images/posts/5.jpg"
+cateories: ["TIL"]
+---
+
+# 07.04.토 오늘 한 일
+
+- The Complete 2020 Web Development Bootcamp ~140강
+
+# 07.04.토 아쉬운 점
+
+- 외출 후에 몸 상태가 좋지 못해서 진도를 많이 나가지 못했다  
+  내일은 집중해서 진도를 쭉쭉 빼놔야겠다.
+
+# 07.05.일 내일 할 일
+
+- The Complete 2020 Web Development Bootcamp ~section13 까지 완강하기.(더 하면 좋다.)

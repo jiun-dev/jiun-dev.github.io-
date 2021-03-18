@@ -1,0 +1,9 @@
+---
+layout: post
+title: TIL을 시작하며 지난 1년간의 개발공부 회고
+tags: [frontpage, jekyll, blog]
+image: "/images/posts/1.jpg"
+cateories: ["TIL"]
+---
+
+test

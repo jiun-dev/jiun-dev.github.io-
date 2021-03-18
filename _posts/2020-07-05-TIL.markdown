@@ -1,0 +1,21 @@
+---
+layout: post
+title: 20/07/05 TIL
+tags: [frontpage, jekyll, blog]
+image: "/images/posts/5.jpg"
+cateories: ["TIL"]
+---
+
+# 07.05.일 오늘 한 일
+
+- The Complete 2020 Web Development Bootcamp ~12챕터
+
+# 07.06.월 아쉬운 점
+
+- 주말이라 좀 늘어진 점.
+
+# 07.06.월 내일 할 일
+
+- 치과
+- 임시로 다닐 센터 알아보기
+- TIL에 배운것도 간략하게나마 포함시켜 적을것

@@ -1,0 +1,15 @@
+---
+layout: post
+title: 20/06/24 TIL
+tags: [frontpage, jekyll, blog]
+image: "/images/posts/1.jpg"
+cateories: ["TIL"]
+---
+
+# 06.24.수 오늘 한 일
+
+\*생횔코딩의 웹 브라우저 javascript location객체까지 들었음
+
+# 06.25.목 내일 할 일
+
+\*생활코딩 웹 브라우저 javascript 완강.

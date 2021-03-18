@@ -1,0 +1,25 @@
+---
+layout: post
+title: 20/07/03 TIL
+tags: [frontpage, jekyll, blog]
+image: "/images/posts/5.jpg"
+cateories: ["TIL"]
+---
+
+# 07.03.금 오늘 한 일
+
+- The Complete 2020 Web Development Bootcamp ~137강
+
+# 07.03.금 아쉬운 점
+
+- 아무래도 프론트엔드쪽은 html, css, javascript가 기본이라 생각해서  
+  계속 그부분만 공부하고 있는데 같이 병행해서 공부할 무언가가 있으면 좋을거 같다.  
+  한가지만 하다보니 집중력도 떨어지고 능률도 줄어드는 느낌이다.  
+  그래도 집중력 면에서 점점 좋아지는것 같아서 다행이다.  
+  더 노력해보자.
+
+# 07.04.토 내일 할 일
+
+- The Complete 2020 Web Development Bootcamp ~section13 까지 완강하기.(더 하면 좋다.)
+- 알라딘에서 서적 찾아오기
+- 점심약속

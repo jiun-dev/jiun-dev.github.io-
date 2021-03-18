@@ -1,0 +1,23 @@
+---
+layout: post
+title: 20/07/02 TIL
+tags: [frontpage, jekyll, blog]
+image: "/images/posts/5.jpg"
+cateories: ["TIL"]
+---
+
+# 07.02.목 오늘 한 일
+
+- The Complete 2020 Web Development Bootcamp 106~114
+- 재미로 로또를 사보았다. 안될거 같긴 하지만 은근히 기대되긴 한다.
+
+# 07.03.금 내일 할 일
+
+- udemy The Complete 2020 Web Development Bootcamp 집중해서 듣기
+
+# 07.02.목 아쉬운 점
+
+- 코로나로 인해 헬스장이 닫아서 새벽에 운동을 못하고 있는 상황이다.  
+  집중력 향상을 위해 도서관이나 카페를 이용하고 싶지만 바로 옆단지에서 확진자가 두명이나 생기는 바람에 힘들것 같다.  
+  운동을 못하니 공부할때 집중력과 체력이 오히려 더 안좋은 것 같다.  
+  아침에 일어나서 유산소랑 맨몸운동이라도 해줘야겠다.
